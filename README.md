@@ -1,3 +1,5 @@
+## 1.0.0 nullable safety implemented
+
 # dart-hex
 
 Easy hexadecimal encoding and decoding using the dart:convert API.
